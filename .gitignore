@@ -1,0 +1,11 @@
+
+
+# PyCharm project setting
+.idea
+__pycache__
+training_checkpoints
+.ckpt
+.csv
+book2/extracted_letter_images
+book2/generated_captcha_images
+book2/datasets
